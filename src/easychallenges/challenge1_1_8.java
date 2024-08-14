@@ -29,12 +29,14 @@ public class challenge1_1_8 {
 
         System.out.println(texto[0]);
         System.out.println("Próxima? s/n");
-        teclado.next();
         if (teclado.next().trim().toLowerCase().equals("s")) {
             System.out.println(texto[1]);
-
-        } else if (teclado.next().trim().toLowerCase().equals("s")) {
-            System.out.println(texto[1]);
+            System.out.println("Próxima? s/n");
+            if (teclado.next().trim().toLowerCase().equals("s")) {
+                System.out.println(texto[2]);
+            }
+        } else {
+            System.out.println("Programa encerrado !");
         }
     }
 }
