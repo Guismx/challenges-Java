@@ -33,5 +33,17 @@ public class challenge1_1_9 {
                 System.out.print(" ");
             }
         }
+        System.out.println("\n=======");
+        //Other solution
+        for (int i = 0; i < max; i++) {
+            for (int j = 0; j < max; j++) {
+                if (j == i || j == max - 1 - i) {
+                    System.out.print("X");
+                } else {
+                    System.out.print(" ");
+                }
+            }
+            System.out.println();
+        }
     }
 }
