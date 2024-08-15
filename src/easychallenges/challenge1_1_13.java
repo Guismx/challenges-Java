@@ -14,18 +14,25 @@
 
 package easychallenges;
 
+import java.util.Arrays;
+
 public class challenge1_1_13 {
     public static void main(String[] args) {
-        System.out.println("              J");
-        System.out.println("             XJX");
-        System.out.println("            XXJXX");
-        System.out.println("           XXJXXXX");
-        System.out.println("          XXJXXXXXX");
-        System.out.println("         XXXXXXJXXXX");
-        System.out.println("        XXXJXXXXXJXXX");
-        System.out.println("       XXXXJXXXXXXXXXX");
-        System.out.println("             XX");
-        System.out.println("             XX");
-        System.out.println("            XXXX");
+        String[] pinheiro = {
+                "              J",
+                "             XJX",
+                "            XXJXX",
+                "           XXJXXXX",
+                "          XXJXXXXXX",
+                "         XXXXXXJXXXX",
+                "        XXXJXXXXXJXXX",
+                "       XXXXJXXXXXXXXXX",
+                "             XX",
+                "             XX",
+                "            XXXX"
+        };
+        for (String linha : pinheiro) {
+            System.out.println(linha);
+        }
     }
 }
