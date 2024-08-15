@@ -1,4 +1,4 @@
-package easychallenges;
+package easychallenges.simple_exit;
 
 //1.1.6 Quadrado - Escrever um programa que mostre a seguinte figura no alto da tela:
 //XXXXX

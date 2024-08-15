@@ -6,9 +6,7 @@
 // MÁRIO        DEZ
 // SÉRGIO       4.5
 // SHIRLEY      7.0
-package easychallenges;
-
-import java.util.Scanner;
+package easychallenges.simple_exit;
 
 public class challenge1_1_7 {
     public static void main(String[] args) {

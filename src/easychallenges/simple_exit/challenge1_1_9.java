@@ -5,7 +5,7 @@
 // L
 // L L L L
 
-package easychallenges;
+package easychallenges.simple_exit;
 
 public class challenge1_1_9 {
     public static void main(String[] args) {

@@ -15,7 +15,7 @@
 //asteriscos (*). [Dica: use o recurso de localização/substituição do editor para fazer a substituição
 //rapidamente]
 
-package easychallenges;
+package easychallenges.simple_exit;
 
 public class challenge1_1_14 {
     public static void main(String[] args) {

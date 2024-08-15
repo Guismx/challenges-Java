@@ -9,7 +9,7 @@
 // 4 - Consulta
 //
 // Opção: _
-package easychallenges;
+package easychallenges.simple_exit;
 
 public class challenge1_1_15 {
     public static void main(String[] args) {
