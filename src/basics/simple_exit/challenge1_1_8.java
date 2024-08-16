@@ -15,7 +15,7 @@
 // Usando a energia solar, o gás carbônico e o hidrogênio contido na água retirada do solo,
 //após complicadas reações químicas, a planta produz açúcares (glicose)."
 
-package easychallenges.simple_exit;
+package basics.simple_exit;
 
 import java.util.Scanner;
 

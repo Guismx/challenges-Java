@@ -12,7 +12,7 @@
 //             XX
 //            XXXX
 
-package easychallenges.simple_exit;
+package basics.simple_exit;
 
 public class challenge1_1_13 {
     public static void main(String[] args) {

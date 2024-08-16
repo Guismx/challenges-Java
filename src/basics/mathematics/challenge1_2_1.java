@@ -8,7 +8,7 @@
 // (5*6/(3+2) - 15*4)/6-4 =
 // 4+32*2 -7*2/(9-2) =
 
-package easychallenges.mathematics;
+package basics.mathematics;
 
 public class challenge1_2_1 {
     public static void main(String[] args) {

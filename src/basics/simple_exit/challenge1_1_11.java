@@ -9,7 +9,7 @@
 //   \__~_/
 
 
-package easychallenges.simple_exit;
+package basics.simple_exit;
 
 public class challenge1_1_11 {
     public static void main(String[] args) {

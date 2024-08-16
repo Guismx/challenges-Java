@@ -2,9 +2,8 @@
 //telefone, limpa a tela e mostra seu nome na primeira linha, seu endereço na segunda, e o CEP e
 //telefone na terceira.
 
-package easychallenges.mathematics;
+package variable_and_data_entry.mathematics;
 
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
 public class challenge1_2_2 {

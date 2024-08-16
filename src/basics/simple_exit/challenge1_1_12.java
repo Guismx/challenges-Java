@@ -13,7 +13,7 @@
 // Elabore um programa que mostre na tela os emoticons, um em cada linha, com a
 // descrição de cada um.
 
-package easychallenges.simple_exit;
+package basics.simple_exit;
 
 public class challenge1_1_12 {
     public static void main(String[] args) {
