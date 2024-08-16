@@ -10,7 +10,7 @@
 
 package easychallenges.mathematics;
 
-public class challenge_1_2_1 {
+public class challenge1_2_1 {
     public static void main(String[] args) {
         int calc = (2*6) + (11*5);
         int calc1 = (20/(-2))/5;
