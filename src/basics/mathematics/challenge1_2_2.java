@@ -28,6 +28,7 @@ public class challenge1_2_2 {
             System.out.println("41 div 7 = " + calc2);
             System.out.println("11 div 3 mod 2 = " + calc3);
             System.out.println("11 mod 3 div 2 = " + calc4);
+            //TESTANDO NEW ISSUE
         } else {
             System.out.println("has incorrect calculations");
         }
