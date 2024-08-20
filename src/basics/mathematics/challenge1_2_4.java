@@ -13,7 +13,7 @@ public class challenge1_2_4 {
        int divTime = 100 / 6;
        int result = time % matriculas;
 
-       System.out.println("The time you must study each subject will be: " + divTime);
-       System.out.println("The remaining time to rest is: " + result);
+       System.out.println("The time you must study each subject will be: " + divTime + " minutes");
+       System.out.println("The remaining time to rest is: " + result + " minutes");
     }
 }
