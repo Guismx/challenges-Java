@@ -9,24 +9,29 @@
 
 package basics.mathematics;
 
+import java.util.Scanner;
+
 public class challenge1_2_8 {
     public static void main(String[] args) {
-        double imposto = 10.201;
+        Scanner scan = new Scanner(System.in);
+        double imposto;
 
+        System.out.println("Digite o valor para calcular seu imposto: ");
+        imposto = scan.nextInt();
         if (imposto <= 1.200) {
             System.out.println("Você está insento de impostos !");
         } else if (imposto < 5.000) {
             double porcentagem = imposto * 0.10;
             double resultado = porcentagem + imposto;
-            System.out.println("Seu valor de imposto é: R$"+ String.format("%.3f", imposto) + " Com a taxa de 10%, fica: R$" + String.format("%.3f", resultado));
+            System.out.println("Seu valor de imposto é: R$"+ String.format("%.2f", imposto) + " Com a taxa de 10%, fica: R$" + String.format("%.2f", resultado));
         } else if (imposto < 10.000) {
             double porcentagem = imposto * 0.15;
             double resultado = porcentagem + imposto;
-            System.out.println("Seu valor de imposto é: R$"+ String.format("%.3f", imposto) + " Com a taxa de 15%, fica: R$" + String.format("%.3f", resultado));
+            System.out.println("Seu valor de imposto é: R$"+ String.format("%.2f", imposto) + " Com a taxa de 15%, fica: R$" + String.format("%.2f", resultado));
         } else {
             double porcentagem = imposto * 0.20;
             double resultado = porcentagem + imposto;
-            System.out.println("Seu valor de imposto é: R$"+ String.format("%.3f", imposto) + " Com a taxa de 20%, fica: R$" + String.format("%.3f", resultado));
+            System.out.println("Seu valor de imposto é: R$"+ String.format("%.2f", imposto) + " Com a taxa de 20%, fica: R$" + String.format("%.2f", resultado));
         }
     }
 }
