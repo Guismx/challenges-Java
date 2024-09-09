@@ -7,7 +7,7 @@
 
 package basics.simple_exit;
 
-public class challenge1_1_9 {
+public class Challenge1_1_9 {
     public static void main(String[] args) {
         int max = 5;
 

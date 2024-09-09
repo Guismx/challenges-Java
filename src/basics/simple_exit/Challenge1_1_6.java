@@ -6,7 +6,7 @@ package basics.simple_exit;
 // X X
 // X X
 // XXXXX
-public class challenge1_1_6 {
+public class Challenge1_1_6 {
     public static void main(String[] args) {
         int max = 5;
         //CRIANDO A PRIMEIRA LINHA

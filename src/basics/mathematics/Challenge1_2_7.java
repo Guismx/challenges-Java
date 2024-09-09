@@ -4,7 +4,7 @@
 
 package basics.mathematics;
 
-public class challenge1_2_7 {
+public class Challenge1_2_7 {
     public static void main(String[] args) {
         //Fórmula double celsius = (5.0 / 9.0) * (fahrenheit1 - 32);
 

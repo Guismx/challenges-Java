@@ -11,7 +11,7 @@
 // Opção: _
 package basics.simple_exit;
 
-public class challenge1_1_15 {
+public class Challenge1_1_15 {
     public static void main(String[] args) {
 
         String[] menu = new String[7];

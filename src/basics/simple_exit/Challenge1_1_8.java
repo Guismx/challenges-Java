@@ -19,7 +19,7 @@ package basics.simple_exit;
 
 import java.util.Scanner;
 
-public class challenge1_1_8 {
+public class Challenge1_1_8 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         String[] texto = new String[3];

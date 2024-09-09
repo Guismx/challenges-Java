@@ -5,7 +5,7 @@
 
 package basics.mathematics;
 
-public class challenge1_2_5 {
+public class Challenge1_2_5 {
     public static void main(String[] args) {
         int pedaco = 45;
         int[] madeira = {300, 400, 500};

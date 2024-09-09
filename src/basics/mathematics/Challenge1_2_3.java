@@ -9,7 +9,7 @@
 
 package basics.mathematics;
 
-public class challenge1_2_3 {
+public class Challenge1_2_3 {
     public static void main(String[] args) {
 
         float assinatura = 17.90f;

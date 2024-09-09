@@ -10,7 +10,7 @@
 
 package basics.mathematics;
 
-public class challenge1_2_1 {
+public class Challenge1_2_1 {
     public static void main(String[] args) {
         int calc = (2*6) + (11*5);
         int calc1 = (20/(-2))/5;

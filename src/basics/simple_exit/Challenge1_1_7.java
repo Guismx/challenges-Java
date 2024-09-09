@@ -8,7 +8,7 @@
 // SHIRLEY      7.0
 package basics.simple_exit;
 
-public class challenge1_1_7 {
+public class Challenge1_1_7 {
     public static void main(String[] args) {
         System.out.println("ALUNO (A)" + "    " + "NOTA");
         System.out.println("=========" + "    " + "====");

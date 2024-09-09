@@ -6,7 +6,7 @@
 
 package basics.mathematics;
 
-public class challenge1_2_6 {
+public class Challenge1_2_6 {
     public static void main(String[] args) {
         float[] notas = {7.0f, 9.2f, 6.8f, 8.4f, 8.3f};
         float soma = 0;

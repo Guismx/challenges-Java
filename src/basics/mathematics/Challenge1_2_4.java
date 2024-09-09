@@ -5,7 +5,7 @@
 
 package basics.mathematics;
 
-public class challenge1_2_4 {
+public class Challenge1_2_4 {
     public static void main(String[] args) {
        int matriculas = 6;
        int time = 100;

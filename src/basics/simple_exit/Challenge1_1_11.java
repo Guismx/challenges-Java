@@ -11,7 +11,7 @@
 
 package basics.simple_exit;
 
-public class challenge1_1_11 {
+public class Challenge1_1_11 {
     public static void main(String[] args) {
         System.out.println("  /\\_/\\  ");
         System.out.println(" ( o.o ) ");
