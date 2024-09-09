@@ -11,7 +11,7 @@ package basics.mathematics;
 
 import java.util.Scanner;
 
-public class challenge1_2_8 {
+public class Challenge1_2_8 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double imposto;
