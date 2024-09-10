@@ -26,6 +26,5 @@ public class Challenge1_2_9 {
         long arredondado = Math.round(1.65);
         System.out.println("1.65 arredondado para inteiro: " + arredondado);
 
-
     }
 }
